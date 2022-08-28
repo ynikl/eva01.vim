@@ -13,7 +13,7 @@ endif
 let g:colors_name = 'eva01'
 
 " General colors"{{{
-hi ColorColumn ctermfg=NONE ctermbg=97 cterm=NONE guifg=NONE guibg=#875FAF gui=NONE
+hi ColorColumn ctermfg=NONE ctermbg=97 cterm=NONE guifg=NONE guibg=#3E524D gui=NONE
 hi Conceal ctermfg=119 ctermbg=NONE cterm=NONE guifg=#87FF5F guibg=NONE gui=NONE
 hi Cursor ctermfg=16 ctermbg=119 cterm=NONE guifg=#000000 guibg=#87FF5F gui=NONE
 hi CursorIM ctermfg=NONE ctermbg=168 cterm=NONE guifg=NONE guibg=#db6088 gui=NONE
